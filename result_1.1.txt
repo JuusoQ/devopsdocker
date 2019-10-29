@@ -1,0 +1,10 @@
+CONTAINER ID        IMAGE                            COMMAND                  CREATED             STATUS                      PORTS                   NAMES
+e36abb98c40c        neo4j                            "/sbin/tini -g -- /d…"   2 minutes ago       Exited (0) 16 seconds ago                           nervous_ishizaka
+8180ac5ed38a        postgres                         "docker-entrypoint.s…"   5 minutes ago       Exited (0) 17 seconds ago                           cool_volhard
+900c6b9dc59f        nginx                            "nginx -g 'daemon of…"   5 minutes ago       Up 5 minutes                80/tcp                  fervent_lalande
+bfc5030d076a        nginx                            "nginx -g 'daemon of…"   8 minutes ago       Exited (0) 8 minutes ago                            condescending_proskuriakova
+68e36c614735        nginx                            "nginx -g 'daemon of…"   10 minutes ago      Exited (0) 9 minutes ago                            sharp_lalande
+0c3f147fad27        hello-world                      "/hello"                 13 minutes ago      Exited (0) 13 minutes ago                           cocky_elion
+2ede48544343        robertaboukhalil/emsdk:1.38.26   "/bin/sh -c 'python …"   2 weeks ago         Exited (255) 11 days ago    0.0.0.0:12345->80/tcp   wasm
+5678d779650a        nginx                            "nginx -g 'daemon of…"   2 months ago        Exited (0) 2 months ago                             charming_joliot
+8db264371d21        nginx                            "nginx -g 'daemon of…"   2 months ago        Exited (0) 2 months ago                             crazy_moser

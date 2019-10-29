@@ -1,0 +1,16 @@
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+REPOSITORY               TAG                 IMAGE ID            CREATED             SIZE
+neo4j                    latest              d3bc45377fd7        10 days ago         363MB
+postgres                 latest              f88dfa384cc4        12 days ago         348MB
+robertaboukhalil/emsdk   1.38.26             4e9c2a267562        7 months ago        3.05GB
+superset_superset        latest              81d82f371acb        8 months ago        2.1GB
+python                   3.6                 310aa6326d01        8 months ago        922MB
+postgres                 10                  111603984579        8 months ago        230MB
+hello-world              latest              fce289e99eb9        10 months ago       1.84kB
+redis                    3.2                 87856cc39862        12 months ago       76MB
+recordviewer_nginx       latest              5f6f05409e70        15 months ago       127MB
+recordviewer_web         latest              5f8c2912b4ce        15 months ago       743MB
+nginx                    latest              8b89e48b5f15        15 months ago       109MB
+friendlyhello            latest              5620b54f28a8        20 months ago       148MB
+python                   2.7-slim            52ad41c7aea4        20 months ago       139MB
+node                     8.9.3               2eeae8debf3d        22 months ago       676MB
